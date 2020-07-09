@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ac7443969713bf837de8d846b998c90",
+    "revision": "005db1f07af7c14e42c890535119093f",
     "url": "/moive_app_2020/index.html"
   },
   {
